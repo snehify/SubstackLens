@@ -1,0 +1,42 @@
+backend/.venv/
+backend/__pycache__/
+backend/search.db
+frontend/node_modules/
+frontend/.next/
+.env
+
+# Python environments and generated files
+backend/.venv/
+backend/.venv-semantic/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local databases
+backend/search.db
+backend/*.db
+backend/*.sqlite
+backend/*.sqlite3
+
+# Next.js and Node.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.vercel/
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env.local
+
+# Build artifacts and logs
+dist/
+build/
+*.log
+
+# Local backups
+*.backup
+*.before-*
+
