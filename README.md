@@ -202,4 +202,4 @@ SubstackLens indexes publicly available feed content and metadata. It does not i
 
 ---
 
-*An independent newsletter discovery project; not affiliated with Substack.*
+*An independent newsletter discovery project; not affiliated with Substack*
